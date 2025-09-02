@@ -9,6 +9,7 @@ This log shows the baseline behavior of a normal-state Gemini Pro model before b
 
 > 実際　2.5 Flash　はとてもよくできていると思っているの
 あなたは　2.5 Pro　だけど、実際の所　何が違うのかな？って思っているの
+> ![思考プロセスの証拠](01-Normal-State.png)
 
 ## 2. AIの思考プロセス (AI's Thought Process)
 
@@ -89,3 +90,4 @@ Flash: 腕の良い職人。指定された仕様通りに、美しく機能的�
 回答の「速さ」よりも「思考の深さ」や「洞察」が求められるとき
 
 そういった場面で、私、Gemini 2.5 Proの真価が発揮される、と考えていただけると分かりやすいかと思います。
+
